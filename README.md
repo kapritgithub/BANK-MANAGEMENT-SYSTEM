@@ -1,3 +1,3 @@
 # BANK-MANAGEMENT-SYSTEM
 
-This is BANK MANAGEMENT SYSTEM end to end project
+This is a BANK MANAGEMENT SYSTEM end to end project
